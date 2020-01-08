@@ -59,5 +59,13 @@
 
 #restart {
   width: auto;
-  align-self: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background: forestgreen;
+  box-shadow: 0 6px darkslategray ;
+}
+
+#restart:hover {
+  background: darkslategray;
 }
